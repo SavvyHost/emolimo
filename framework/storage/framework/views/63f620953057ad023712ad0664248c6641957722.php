@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/vhosts/emolimo.savvyhost.co/httpdocs/framework/resources/views/vehicles/driver-logs-list-actions.blade.php ENDPATH**/ ?>
